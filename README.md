@@ -1,5 +1,8 @@
 # Wikipedia Automated Summary
-script_a.py is an automation script for providing a quick summary of a chosen wikipedia article.
+
+
+_script_a.py _
+An automation script for providing a quick summary of a chosen wikipedia article.
 
 **This package depends on the following libraries**
 * requests
@@ -8,7 +11,8 @@ script_a.py is an automation script for providing a quick summary of a chosen wi
   
 _Credit goes to the following article by Abhay Parashar (https://medium.com/pythoneers/10-useful-automation-scripts-you-need-to-try-using-python-de9c993f1f5), I am using it here merely for educational purposes._
 
-script_b.py is another automation sript, here using a text ranking algorithm
+_script_b.py_
+another automation sript, here using a text ranking algorithm
 
 **This package dpends on the following libraries**
 * genism
