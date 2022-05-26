@@ -19,6 +19,8 @@ another automation sript, here using a text ranking algorithm
 * wikipedia
 * summarizer
 
+credit here goes to https://medium.com/analytics-vidhya/text-summarization-on-wikipedia-38b80d0060b3 
+
 **The output looks as follows when looking into Eclogite's**
 
 Eclogite ( ) is a metamorphic rock containing garnet (almandine-pyrope) hosted in a matrix of sodium-rich pyroxene (omphacite). Accessory minerals include kyanite, rutile, quartz, lawsonite, coesite, amphibole, phengite, paragonite, zoisite, dolomite, corundum, and, rarely, diamond. The chemistry of primary and accessory minerals is used to classify three types of eclogite (A, B, and C). The broad range of eclogitic compositions has led a longstanding debate on the origin of eclogite xenoliths as subducted, altered oceanic crust.
